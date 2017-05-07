@@ -1,0 +1,8 @@
+D:\Projects\HSIME\HSIME.Infrastructure\bin\Debug\HSIME.Infrastructure.exe.config
+D:\Projects\HSIME\HSIME.Infrastructure\bin\Debug\HSIME.Infrastructure.exe
+D:\Projects\HSIME\HSIME.Infrastructure\bin\Debug\HSIME.Infrastructure.pdb
+D:\Projects\HSIME\HSIME.Infrastructure\bin\Debug\NLog.dll
+D:\Projects\HSIME\HSIME.Infrastructure\bin\Debug\NLog.xml
+D:\Projects\HSIME\HSIME.Infrastructure\obj\Debug\HSIME.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Projects\HSIME\HSIME.Infrastructure\obj\Debug\HSIME.Infrastructure.exe
+D:\Projects\HSIME\HSIME.Infrastructure\obj\Debug\HSIME.Infrastructure.pdb
